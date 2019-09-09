@@ -11,8 +11,12 @@ Mac keyboard shortcuts
 
 Setting up things on vs code
   *   Downloading extension 
-      *   
+      *   how to - click on the extension icon (four squares seperated by one) then search any extension
+      *   extension installed
+          *   Bracket Pair Colorizer 
+          *   Code Spell Checker
+          *   Indent-rainbow
+          *   Markdown all in one
+          *   setting sync
+              *   next time you set up a new computer your setting will be sync up through github
 
-<!-- * 
-Terminal
- *   -->
