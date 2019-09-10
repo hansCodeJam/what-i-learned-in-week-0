@@ -18,5 +18,11 @@ Setting up things on vs code
           *   Indent-rainbow
           *   Markdown all in one
           *   setting sync
-              *   next time you set up a new computer your setting will be sync up through github
+              *   next time you set up a new computer your settings will be sync up through github
+
+Terminal
+ * An application the allows you to control anything on your mac
+   * Bash-cheat-sheet https://github.com/hansCodeJam/bash-cheat-sheet
+     * cd, ls, pwd, mv, rm, mkdir, touch, cp
+
 
